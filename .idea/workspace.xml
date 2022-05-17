@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="63c0f5cb-d1af-4a40-a9f0-d0ac5eb4b7d1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/fawzi/linggo/classes/StringBuilderApp.java" afterDir="false" />
+    <list default="true" id="63c0f5cb-d1af-4a40-a9f0-d0ac5eb4b7d1" name="Changes" comment="String Builder">
+      <change afterPath="$PROJECT_DIR$/src/com/fawzi/linggo/classes/StringJoinnerApp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/fawzi/linggo/classes/StringApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fawzi/linggo/classes/StringApp.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +40,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.StringBuilderApp">
+  <component name="RunManager" selected="Application.StringJoinnerApp">
     <configuration name="StringApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.fawzi.linggo.classes.StringApp" />
       <module name="java-standar-clases" />
@@ -68,8 +67,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StringJoinnerApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fawzi.linggo.classes.StringJoinnerApp" />
+      <module name="java-standar-clases" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fawzi.linggo.classes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StringJoinnerApp" />
         <item itemvalue="Application.StringBuilderApp" />
         <item itemvalue="Application.StringApp" />
       </list>
@@ -84,6 +97,14 @@
       <option name="presentableId" value="Default" />
       <updated>1652762403250</updated>
     </task>
+    <task id="LOCAL-00001" summary="String Builder">
+      <created>1652768073803</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1652768073803</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -96,5 +117,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="String Builder" />
+    <option name="LAST_COMMIT_MESSAGE" value="String Builder" />
   </component>
 </project>
